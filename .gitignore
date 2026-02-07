@@ -1,0 +1,11 @@
+# Ignore datasets
+data/
+
+# Ignore trained models
+models/
+
+# Ignore python cache
+__pycache__/
+
+# Ignore large ML artifacts
+*.pkl
